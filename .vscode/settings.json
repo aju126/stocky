@@ -1,0 +1,7 @@
+{
+    "appService.zipIgnorePattern": [
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/116e26a2-7e8c-41e5-b223-78d397ca1094/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/stocky",
+    "appService.deploySubpath": ""
+}
