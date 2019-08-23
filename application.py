@@ -23,3 +23,6 @@ def listen():
         if(tup != None):
             fb_boiler.send_message(tup[0], tup[1])
     return "ok"
+
+if __name__ == "__main__":
+    app.run(host='0.0.0.0')
